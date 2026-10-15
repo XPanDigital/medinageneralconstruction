@@ -9,3 +9,12 @@
 .direct-contact{background:#171914ed;border-top:3px solid var(--gold);padding:40px}.direct-contact .eyebrow{font-size:10px;letter-spacing:1.8px}.direct-contact h2{font-size:38px;line-height:1.15;margin-bottom:22px}.direct-contact>p{color:var(--muted);font-size:14px;line-height:1.8}.direct-phone{display:inline-block;font-size:30px;letter-spacing:-.8px;margin:8px 0 26px;color:var(--cream)}.direct-actions{display:flex;gap:12px;flex-wrap:wrap}.direct-actions .button{flex:1;min-width:155px;gap:20px}.button-outline{background:transparent;color:var(--gold)}.button-outline:hover{background:var(--gold);color:#17180f}.direct-contact .direct-caption{font-size:10px;margin:22px 0 0;letter-spacing:.6px}.contact .direct-actions{max-width:450px}@media(max-width:760px){.direct-contact{padding:28px}.direct-contact h2{font-size:34px}.direct-phone{font-size:28px}.direct-contact .direct-actions{flex-direction:column}.direct-actions .button{min-width:140px}.hero{min-height:0}}
 
 .video-slide video{display:block;width:100%;height:100%;object-fit:cover;background:transparent;cursor:auto}.video-slide .project-photo{max-width:calc(100vw - 36px)}
+
+/* Vector UI icons render identically without system emoji fonts. */
+.ui-icon{display:inline-block;width:1em;height:1em;min-width:1em;flex-shrink:0;vertical-align:-.125em;pointer-events:none}.button .ui-icon{width:20px;height:20px}.service-number .ui-icon{width:23px;height:23px}.photo-expand{line-height:1;display:flex;align-items:center;justify-content:center;width:38px;height:34px;padding:0}.photo-expand .ui-icon{width:20px;height:20px}.menu-toggle{line-height:1}.menu-toggle .ui-icon{width:23px;height:23px}.carousel-play .ui-icon{width:16px;height:16px}.underlined{align-items:center}
+
+.hero-title{color:#FACC15}
+
+
+.hero .intro{color:#FACC15}
+

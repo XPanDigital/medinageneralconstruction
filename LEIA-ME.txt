@@ -29,3 +29,9 @@ assets/living.jpg: https://images.unsplash.com/photo-1600607686527-6fb886090705
 
 VÍDEO DOS TRABALHOS
 Vídeo original incluído em assets/project-video.mp4, como primeiro item do carrossel. Reprodução manual com controles nativos, som e tela cheia conforme suporte do navegador. A rotação do carrossel pausa enquanto o vídeo toca. O vídeo pausa ao sair da área visível. Não requer serviço externo.
+
+ÍCONES
+Setas, menu, marcador e controles do carrossel usam SVG inline com a cor do site. Não dependem de fontes de emojis nem de bibliotecas externas.
+
+ÁREA ATENDIDA
+Akron e Cleveland, Ohio. Endereço da empresa mantido em Akron. A comunicação dos serviços usa Remodeling, evitando a duplicação com Renovation.

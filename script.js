@@ -45,7 +45,7 @@ function advance(direction) {
   track.scrollTo({left: target, behavior: reducedMotion.matches ? 'instant' : 'smooth'});
 }
 function updatePlay() {
-  play.innerHTML = paused ? 'Play <span aria-hidden="true">▶</span>' : 'Pause <span aria-hidden="true">Ⅱ</span>';
+  play.innerHTML = paused ? 'Play <span aria-hidden="true"><svg class="ui-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m8 4 12 8-12 8Z" fill="currentColor" stroke="none"/></svg></span>' : 'Pause <span aria-hidden="true"><svg class="ui-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M8 5v14M16 5v14"/></svg></span>';
   play.setAttribute('aria-label', paused ? 'Start automatic slideshow' : 'Pause automatic slideshow');
   play.setAttribute('aria-pressed', String(paused));
   schedule();
