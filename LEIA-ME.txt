@@ -1,0 +1,31 @@
+MEDINA L’S GENERAL CONSTRUCTION LLC — SITE HTML
+
+COMO ABRIR
+Extraia o ZIP e abra index.html no navegador. Mantenha styles.css, script.js e a pasta assets junto do HTML. Não precisa instalar Node, React ou qualquer dependência. As imagens estão incluídas para abertura offline.
+
+COMO HOSPEDAR
+Envie index.html, styles.css, script.js e assets para a pasta pública de qualquer hospedagem de sites estáticos.
+
+CONTATO
+Telefone: (678) 682-4202
+E-mail confirmado: medinalgcontruction@gmail.com
+Endereço: 1153 Copley Rd., Akron, OH 44320
+
+CONTATO DIRETO
+O site não contém formulário nem sistema de recebimento de dados. Os botões Call us e Send an SMS abrem, respectivamente, o aplicativo de chamadas (tel:+16786824202) e o de mensagens SMS (sms:+16786824202) do visitante. A ligação ou o envio são concluídos pelo visitante em seu dispositivo. E-mail e Google Maps continuam disponíveis na seção de contato.
+
+ADAPTAÇÃO
+Versão em HTML, CSS e JavaScript puro baseada na estrutura do projeto fornecido, reorganizada em uma página com navegação por seções. Mantido o idioma inglês do original para o público nos EUA. Identidade visual: preto, dourado e branco da logo fornecida. Logo original preservada sem edição.
+
+CONTEÚDO
+Categorias de serviços adaptadas do modelo original; valide a oferta com a empresa antes de publicar. Removidos depoimentos, estatísticas e certificações não confirmados. Galeria Our work com as 10 fotografias fornecidas pelo usuário, mostrando etapas e resultados dos trabalhos da Medina. Carrossel sem bordas ou faixas pretas, com avanço automático a cada 4,5 segundos, arraste pelo mouse, deslize por toque, setas e botão de pausa. As fotos mantêm suas proporções e podem ser abertas completas. A rotação pausa durante a interação e respeita a preferência por movimento reduzido do dispositivo. Atendimento comercial e residencial destacado no site. A foto de capa permanece ilustrativa, identificada como tal.
+
+IMAGENS
+assets/hero.jpg: https://images.unsplash.com/photo-1600596542815-ffad4c1539a9
+assets/kitchen.jpg: https://images.unsplash.com/photo-1556911220-e15b29be8c8f
+assets/bathroom.jpg: https://images.unsplash.com/photo-1620626011761-996317b8d101
+assets/living.jpg: https://images.unsplash.com/photo-1600607686527-6fb886090705
+
+
+VÍDEO DOS TRABALHOS
+Vídeo original incluído em assets/project-video.mp4, como primeiro item do carrossel. Reprodução manual com controles nativos, som e tela cheia conforme suporte do navegador. A rotação do carrossel pausa enquanto o vídeo toca. O vídeo pausa ao sair da área visível. Não requer serviço externo.
