@@ -35,3 +35,6 @@ Setas, menu, marcador e controles do carrossel usam SVG inline com a cor do site
 
 ÁREA ATENDIDA
 Akron e Cleveland, Ohio. Endereço da empresa mantido em Akron. A comunicação dos serviços usa Remodeling, evitando a duplicação com Renovation.
+
+ATUALIZAÇÃO DE MÍDIAS
+Incluídas mais 19 imagens e um segundo vídeo fornecidos pelo usuário. O carrossel agora contém 29 fotos e 2 vídeos. As novas mídias aparecem antes das anteriores.
