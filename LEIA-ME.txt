@@ -38,3 +38,8 @@ Akron e Cleveland, Ohio. Endereço da empresa mantido em Akron. A comunicação 
 
 ATUALIZAÇÃO DE MÍDIAS
 Incluídas mais 19 imagens e um segundo vídeo fornecidos pelo usuário. O carrossel agora contém 29 fotos e 2 vídeos. As novas mídias aparecem antes das anteriores.
+
+ATENDIMENTO POR IDIOMA
+Espanhol: (678) 682-4202. Inglês: (330) 962-7120. Ambos os números aparecem em botões de ligação no cabeçalho, na apresentação e no contato.
+NUMERAÇÃO
+Removidos os números de ordem dos títulos das seções, cartões de serviço e etapas. Os ícones SVG e a hierarquia visual foram preservados. Os rótulos da galeria compartilham o mesmo estilo tipográfico.
